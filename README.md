@@ -73,6 +73,9 @@ Tests use their own values from `src/test/resources/application.properties`, so 
 ```bash
 mvn test
 ```
+![Uploading image.png…]()
+
+
 
 ## Design notes
 - Stateless sessions, CSRF disabled (Bearer tokens, no cookies)
